@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Dino-Theme
+This theme is based around prehistoric **dinosaurs**.
